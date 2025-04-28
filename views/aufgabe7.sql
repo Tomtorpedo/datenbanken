@@ -1,4 +1,4 @@
-SELECT ROUND(AVG(entropy),2) AS "Mittlere Entropie Hiroshige"
+SELECT 
 FROM views
 WHERE
     
